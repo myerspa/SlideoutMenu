@@ -1,0 +1,24 @@
+{
+  "name": "SlideoutMenu",
+  "version": "1.0.0",
+  "homepage": "https://github.com/myerspa/SlideoutMenu",
+  "authors": [
+    "myerspa <myers.pa@gmail.com>"
+  ],
+  "description": "A simple jquery slide out menu.",
+  "main": "slide-menu.js",
+  "keywords": [
+    "jQuery",
+    "Slide",
+    "Menu"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
